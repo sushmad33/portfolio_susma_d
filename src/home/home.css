@@ -1,0 +1,11 @@
+.intro{
+    padding-top: 80px;
+  }  
+  .home{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .home .intro{
+    width: 50%;
+  }
